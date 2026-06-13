@@ -34,7 +34,7 @@
 Нужен только **Docker** + **Docker Compose**.
 
 ```bash
-git clone https://github.com/DenisTroshin1994/prostograf.git
+git clone https://github.com/Denis-ya-32/prostograf.git
 cd prostograf
 cp .env.example .env           # ключи можно вписать сюда или позже в веб-интерфейсе
 docker compose up -d --build   # первая сборка ~2–4 мин (дольше при первой загрузке базовых образов)
